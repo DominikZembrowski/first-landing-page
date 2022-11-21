@@ -1,2 +1,2 @@
 # first-landing-page
-My first landing page on GitHub
+README for my first landing page on GitHub
